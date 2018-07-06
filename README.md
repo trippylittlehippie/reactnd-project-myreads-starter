@@ -1,5 +1,3 @@
-**Have a question or suggestion?**
-Contact me on [Linkedin](https://www.linkedin.com/in/fernandosmbrito), or open a pull request on this project.
 
 **Programming assignment for the [Udacity React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) program.**
 
