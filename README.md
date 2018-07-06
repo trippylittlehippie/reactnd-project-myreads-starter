@@ -54,8 +54,3 @@ Deploys the to GitHub Pages app using `gh-pages` package.
 ```bash
 $ npm run deploy
 ```
-
-
-## License
-
-This project is licensed under the MIT License. Check the `LICENSE` file.
